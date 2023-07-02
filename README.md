@@ -6,5 +6,5 @@ The aim of this project is to perform data analytics on Chicago Taxi Trip data u
 
 ## Architecture
 
-
+architecture.jpg
 
