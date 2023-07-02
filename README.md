@@ -7,3 +7,8 @@ The aim of this project is to perform data analytics on Chicago Taxi Trip data u
 ## Architecture 
 <img src="architecture.jpg">
 
+## Data Model
+<img src="Chicago taxi data model">
+
+## Data Visualization
+<img src="Chicago_Taxi_Dashboard">
