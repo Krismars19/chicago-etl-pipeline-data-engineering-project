@@ -11,4 +11,4 @@ The aim of this project is to perform data analytics on Chicago Taxi Trip data u
 <img src="Chicago taxi data model.jpeg">
 
 ## Data Visualization
-<img src="Chicago_Taxi_Dashboard.pdf">
+Link: [Chicago_Taxi_Dashboard](https://lookerstudio.google.com/reporting/107f2984-6d16-49c6-ba6b-6ef988981dc3)
