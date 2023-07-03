@@ -29,6 +29,6 @@ Data Collection and transformation Scripts
 Link: [Chicago Taxi Dashboard](https://lookerstudio.google.com/reporting/107f2984-6d16-49c6-ba6b-6ef988981dc3)
 
 
-Credits
+Credit
 - [Uber Data Analytics | End-To-End Data Engineering Project by Darshil Parmar](https://www.youtube.com/watch?v=WpQECq5Hx9g)
   
