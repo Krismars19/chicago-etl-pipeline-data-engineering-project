@@ -1,4 +1,4 @@
-# Chicago Data Analytics - Modern Data Engineering GCP Project
+# Chicago Taxi Trip Data Analytics - Modern Data Engineering GCP Project
 
 ## Introduction
 
@@ -6,6 +6,19 @@ The aim of this project is to perform data analytics on Chicago Taxi Trip data u
 
 ## Architecture 
 <img src="architecture.jpg">
+
+## Data Source
+Chicago Taxi Trip datasets was extracted using the [Chicago Data Portal API Endpoint](https://data.cityofchicago.org/resource/wrvz-psew.json) with the columns recording information on trip start and end date time, trip in seconds, trip in miles, pickup and dropoff community area, fare, tips, payment type, company, pickup and dropoff locations. 
+
+Community area data that contains the pickup and dropoff community area name was used to enriched the Chicago Taxi trip data.
+
+Data Source Link
+1. [Chicago Taxi Trip ](https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew)
+2. [Community Area](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6)
+
+Data Collection and transformation Scripts
+- [Data_collection_transformation.ipynb](https://github.com/Krismars19/chicago-etl-pipeline-data-engineering-project/blob/main/Data_collection_transformation.ipynb)
+- [Chicago-Taxi-Trip-ETL-pipeline-project.ipynb](https://github.com/Krismars19/chicago-etl-pipeline-data-engineering-project/blob/main/Chicago-Taxi-Trip-ETL-pipeline-project.ipynb)
 
 ## Data Model
 <img src="Chicago taxi data model.jpeg">
