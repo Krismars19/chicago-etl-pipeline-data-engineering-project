@@ -17,8 +17,9 @@ Data Source Link
 2. [Community Area](https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6)
 
 Data Collection and transformation Scripts
-- [Data_collection_transformation.ipynb](https://github.com/Krismars19/chicago-etl-pipeline-data-engineering-project/blob/main/Data_collection_transformation.ipynb)
-- [Chicago-Taxi-Trip-ETL-pipeline-project.ipynb](https://github.com/Krismars19/chicago-etl-pipeline-data-engineering-project/blob/main/Chicago-Taxi-Trip-ETL-pipeline-project.ipynb)
+- [Data Collection](https://github.com/Krismars19/chicago-etl-pipeline-data-engineering-project/blob/main/Data_collection_transformation.ipynb)
+- [Chicago Taxi Trip ETL pipeline project](https://github.com/Krismars19/chicago-etl-pipeline-data-engineering-project/blob/main/Chicago-Taxi-Trip-ETL-pipeline-project.ipynb)
+- [Mage Files](https://github.com/Krismars19/chicago-etl-pipeline-data-engineering-project/tree/main/mage%20files)
 
 ## Data Model
 <img src="Chicago taxi data model.jpeg">
